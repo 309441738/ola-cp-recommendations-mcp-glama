@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "309441738"
+  ],
+  "name": "Cruise Product Recommendations",
+  "description": "根据用户的偏好和历史选择，为您推荐最适合的邮轮产品，确保您找到理想的航行体验。"
+}
